@@ -1,0 +1,132 @@
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-Thin.eot);
+  src: url(fonts/e-Ukraine-Thin.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-Thin.woff2) format("woff2"), url(fonts/e-Ukraine-Thin.woff) format("woff"), url(fonts/e-Ukraine-Thin.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-UltraLight.eot);
+  src: url(fonts/e-Ukraine-UltraLight.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-UltraLight.woff2) format("woff2"), url(fonts/e-Ukraine-UltraLight.woff) format("woff"), url(fonts/e-Ukraine-UltraLight.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-Light.eot);
+  src: url(fonts/e-Ukraine-Light.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-Light.woff2) format("woff2"), url(fonts/e-Ukraine-Light.woff) format("woff"), url(fonts/e-Ukraine-Light.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-Regular.eot);
+  src: url(fonts/e-Ukraine-Regular.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-Regular.woff2) format("woff2"), url(fonts/e-Ukraine-Regular.woff) format("woff"), url(fonts/e-Ukraine-Regular.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-Medium.eot);
+  src: url(fonts/e-Ukraine-Medium.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-Medium.woff2) format("woff2"), url(fonts/e-Ukraine-Medium.woff) format("woff"), url(fonts/e-Ukraine-Medium.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraine;
+  src: url(fonts/e-Ukraine-Bold.eot);
+  src: url(fonts/e-Ukraine-Bold.eot?#iefix) format("embedded-opentype"), url(fonts/e-Ukraine-Bold.woff2) format("woff2"), url(fonts/e-Ukraine-Bold.woff) format("woff"), url(fonts/e-Ukraine-Bold.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-Thin.eot);
+  src: url(fonts/e-UkraineHead-Thin.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-Thin.woff2) format("woff2"), url(fonts/e-UkraineHead-Thin.woff) format("woff"), url(fonts/e-UkraineHead-Thin.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-UltraLight.eot);
+  src: url(fonts/e-UkraineHead-UltraLight.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-UltraLight.woff2) format("woff2"), url(fonts/e-UkraineHead-UltraLight.woff) format("woff"), url(fonts/e-UkraineHead-UltraLight.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-Light.eot);
+  src: url(fonts/e-UkraineHead-Light.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-Light.woff2) format("woff2"), url(fonts/e-UkraineHead-Light.woff) format("woff"), url(fonts/e-UkraineHead-Light.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-Regular.eot);
+  src: url(fonts/e-UkraineHead-Regular.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-Regular.woff2) format("woff2"), url(fonts/e-UkraineHead-Regular.woff) format("woff"), url(fonts/e-UkraineHead-Regular.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-Medium.eot);
+  src: url(fonts/e-UkraineHead-Medium.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-Medium.woff2) format("woff2"), url(fonts/e-UkraineHead-Medium.woff) format("woff"), url(fonts/e-UkraineHead-Medium.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-Bold.eot);
+  src: url(fonts/e-UkraineHead-Bold.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-Bold.woff2) format("woff2"), url(fonts/e-UkraineHead-Bold.woff) format("woff"), url(fonts/e-UkraineHead-Bold.ttf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap
+}
+
+@font-face {
+  font-family: eUkraineHead;
+  src: url(fonts/e-UkraineHead-NAME.eot);
+  src: url(fonts/e-UkraineHead-NAME.eot?#iefix) format("embedded-opentype"), url(fonts/e-UkraineHead-NAME.woff2) format("woff2"), url(fonts/e-UkraineHead-NAME.woff) format("woff"), url(fonts/e-UkraineHead-NAME.ttf) format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap
+}
+
+body {
+  color: #000;
+  font-family: eUkraineHead, Arial;
+  font-size: 50px;
+  font-weight: 500;
+  margin: 0;
+  padding: 50px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.specimen-characters-char {
+    display: inline-block;
+}
